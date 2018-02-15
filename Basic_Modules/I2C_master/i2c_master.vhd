@@ -245,3 +245,4 @@ BEGIN
   sda <= '0' WHEN sda_ena_n = '0' ELSE 'Z';
   
 END logic;
+ 
