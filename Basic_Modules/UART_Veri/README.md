@@ -3,7 +3,7 @@ This is the verilog version of UART. I am going to use the verilog mixed with VH
 The usage of the mixture is:
 "To Instantiate a Verilog Module in a VHDL Design Unit
 
-     Declare a VHDL component with the same name as the Verilog module (respecting case sensitivity) that 
+     Declare a VHDL component with the same name as the Verilog module **(respecting case sensitivity)** that 
      you want to instantiate.
     For example,
 
