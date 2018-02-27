@@ -3,7 +3,7 @@ This is the verilog version of UART. I am going to use the verilog mixed with VH
 The usage of the mixture is:
 "To Instantiate a Verilog Module in a VHDL Design Unit
 
-     Declare a VHDL component with the same name as the Verilog module **(respecting case sensitivity)** that 
+     Declare a VHDL component with the same name as the Verilog module (respecting case sensitivity) that 
      you want to instantiate.
     For example,
 
@@ -21,6 +21,6 @@ The usage of the mixture is:
     D => I,
     C => CLK);
 
-"Since Verilog is case sensitive, named associations and the local port names that you use in the component declaration must match the case of the corresponding Verilog port names. "
+"Since Verilog is **_case sensitive_**, named associations and the local port names that you use in the component declaration must match the case of the corresponding Verilog port names. "
 
 Found on : https://www.xilinx.com/itp/xilinx10/isehelp/ism_p_instantiating_verilog_module_mixedlang.htm
