@@ -1,10 +1,14 @@
 # robot_WD2
+
 ######################################################
+
 UPDATED:
 Currently I moved this project to another repo, this link is [HERE https://github.com/ONLYA/Jumping_Robot](https://github.com/ONLYA/Jumping_Robot).
+
 The update of the project is currently in my [blog](https://www.300-300-300-300.space/blog/5).
 THANKS for your attention!!
 ######################################################
+
 A robot that is like the RC Jumper in Watch Dogs 2
 
 Updated... Need to debug or rewrite the UART code to make it work...
